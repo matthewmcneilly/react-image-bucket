@@ -1,6 +1,6 @@
 # Introduction
 
-React/Meteor Image Bucket web application.  
+A React/Meteor Image Bucket web application sourcing content from Imgur.
 
 ![alt text](http://i.imgur.com/8JFNzfH.png "Image Bucket Screenshot")
 
