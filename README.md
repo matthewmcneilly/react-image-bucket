@@ -7,7 +7,7 @@ A React/Meteor Image Bucket web application sourcing content from Imgur.
 # Installation
 
 ##### Install Meteor
-`curl https://install.meteor.com/ | sh` if Linux/Mac OSX or if Windows exectuable installer
+`curl https://install.meteor.com/ | sh` if Linux/Mac OSX or if Windows use the exectuable installer (see api reference).
 
 ##### Install Dependencies
 `meteor npm install`
