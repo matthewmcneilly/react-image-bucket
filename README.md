@@ -1,13 +1,13 @@
 # Introduction
 
-React/Meteor Image Bucket web application.  
+A React/Meteor Image Bucket web application sourcing content from Imgur.
 
-![alt text](http://imgur.com/a/ru6d6 "Image Bucket Screenshot")
+![alt text](http://i.imgur.com/8JFNzfH.png "Image Bucket Screenshot")
 
 # Installation
 
 ##### Install Meteor
-`curl https://install.meteor.com/ | sh` if Linux/Mac OSX or if Windows exectuable installer
+`curl https://install.meteor.com/ | sh` if Linux/Mac OSX or if Windows use the exectuable installer (see api reference).
 
 ##### Install Dependencies
 `meteor npm install`
